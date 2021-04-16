@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CustomCustomScript-Shell/.idea/CustomCustomScript-Shell.iml" filepath="$PROJECT_DIR$/../CustomCustomScript-Shell/.idea/CustomCustomScript-Shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ORCH/Default Sandbox Setup 3.0 for MaaS/.idea/Default Sandbox Setup 3.0 wout Autoload.iml" filepath="$PROJECT_DIR$/../ORCH/Default Sandbox Setup 3.0 for MaaS/.idea/Default Sandbox Setup 3.0 wout Autoload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aws-workshop-colony.iml" filepath="$PROJECT_DIR$/.idea/aws-workshop-colony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SHELLS/hpe-server/.idea/hpe-server.iml" filepath="$PROJECT_DIR$/../SHELLS/hpe-server/.idea/hpe-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SHELLS/hpe-server-deployed/.idea/hpe-server-deployed.iml" filepath="$PROJECT_DIR$/../SHELLS/hpe-server-deployed/.idea/hpe-server-deployed.iml" />
+    </modules>
+  </component>
+</project>
